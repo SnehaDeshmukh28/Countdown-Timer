@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0d1117;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.welcome-text {
+    font-family: 'Cranky', sans-serif;
+    font-size: 2em;
+}
+
+#countdown {
+    font-size: 2.5em;
+}
+
+.illustration {
+    margin: 20px 0;
+}
+
+.hacktober-illustration {
+    width: 80%;
+    max-width: 600px;
+}
